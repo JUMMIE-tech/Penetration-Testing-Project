@@ -63,17 +63,17 @@ The network assessment focused on the interaction between the Kali Linux attacke
 
 **Tools and Technologies**
 
-Kali Linux 2026.1 — Attacker operating system and penetration testing environment.
-Metasploitable 2 — Intentionally vulnerable Linux target used for controlled security testing.
-Oracle VirtualBox — Virtualisation platform used to create the isolated lab environment.
-Nmap — Network discovery and service identification.
-Nessus — Vulnerability scanning and validation reference from the previous assessment.
-Metasploit Framework — Controlled validation of selected network vulnerabilities.
-Burp Suite Community Edition — Web application traffic inspection and request analysis.
-DVWA — Deliberately vulnerable web application used to assess common web security weaknesses.
-Mutillidae — Additional vulnerable web application included in the lab environment.
-MySQL — Database service examined during web application testing.
-Wireshark — Network traffic analysis tool included in the broader networking and security toolkit.
+Kali Linux 2026.1: Attacker operating system and penetration testing environment.
+Metasploitable 2: Intentionally vulnerable Linux target used for controlled security testing.
+Oracle VirtualBox: Virtualisation platform used to create the isolated lab environment.
+Nmap: Network discovery and service identification.
+Nessus: Vulnerability scanning and validation reference from the previous assessment.
+Metasploit Framework: Controlled validation of selected network vulnerabilities.
+Burp Suite Community Edition: Web application traffic inspection and request analysis.
+DVWA: Deliberately vulnerable web application used to assess common web security weaknesses.
+Mutillidae: Additional vulnerable web application included in the lab environment.
+MySQL: Database service examined during web application testing.
+Wireshark: Network traffic analysis tool included in the broader networking and security toolkit.
 
 **Configuration Steps**
 

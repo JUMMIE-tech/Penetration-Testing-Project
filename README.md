@@ -1,6 +1,5 @@
 Comprehensive Internal Network and Web Application Penetration Test
 
-This project documents a controlled penetration testing assessment of a legacy Linux server and its associated web application in an isolated virtual lab environment. Building on an earlier vulnerability assessment, the engagement focused on validating identified weaknesses, measuring their potential impact, and developing prioritised remediation recommendations.
 
 **Table of Contents**
 Project Overview
